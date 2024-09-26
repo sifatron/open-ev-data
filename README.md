@@ -5,7 +5,7 @@
 After two years of being a separate project, we have decided to integrate Open
 EV Data directly into the Chargeprice API.
 
-You can now access the EV data via the [/v2/vehicles
+You can now access the EV data with a paid subscription via the [/v2/vehicles
 endpoint](https://github.com/chargeprice/chargeprice-api-docs/blob/master/api/v2/vehicles/index.md)
 of the [Chargeprice API](https://github.com/chargeprice/chargeprice-api-docs).
 
