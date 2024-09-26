@@ -24,7 +24,7 @@ There are multiple reasons:
    this didn't really work out. So it was mainly (with a few exceptions,
    thanks!) on us, Chargeprice, to manage the data. While we love to do this,
    it's also resource intensive and it's not sustainable for us to provide data
-   for free for any - even commercial - projects. In the end we believe that
+   for free for any projects. In the end we believe that
    only sustainable projects can survive.
 
 2) Technically there has always been some manual effort to get Open EV Data up
@@ -38,18 +38,13 @@ There are multiple reasons:
 
 ### What will happen with this repository?
 
-We will keep the `/data/ev-data.json` as it is, because it's anyway accessible
-via the Git history and forks. Also we published this data with the MIT Licence
-that grants free usage by anyone.
-
-However we won't push any updates anymore.
+We will keep a sample dataset in `/data/ev-data.json` to see how the data
+structure is, but otherwise this repository won't be maintained anymore.
 
 ### Can I still use the data for free?
 
-You can still use the outdated `/data/ev-data.json` data set for free.
-
-If you want to get regular updates, you need to subscribe to our API. You can
-find the pricing [here](https://www.chargeprice.net/pricing).
+No. If you want to get regular updates, you need to get a paid subscription for our API. 
+You can do this [here](https://www.chargeprice.net/quotes).
 
 ### How do I migrate?
 
